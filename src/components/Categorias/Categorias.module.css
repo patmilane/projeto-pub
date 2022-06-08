@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 1250px;
+    
+}
+
+.container:hover{
+    color: black;
+}
