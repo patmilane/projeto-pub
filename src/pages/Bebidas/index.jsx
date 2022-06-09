@@ -10,6 +10,8 @@ import bebida5 from "../../assets/bebida5.png";
 import bebida6 from "../../assets/bebida6.png";
 import bebida7 from "../../assets/bebida7.png";
 import bebida8 from "../../assets/bebida8.png";
+import cart from "../../assets/cart.png";
+
 
 export default function Bebidas() {
 
@@ -54,7 +56,7 @@ export default function Bebidas() {
         },
         {
           id: 8,
-          nome: "Long Neck Cacabaré",
+          nome: "Long Neck Cabaré",
           preco: "6,00",
           img: bebida1
         },
@@ -77,6 +79,7 @@ export default function Bebidas() {
             nome={bebida.produto}
             imagem={bebida2}
             preco={bebida.preco}
+            icone={cart}
           />
         ))}
         {drink && drink.map((drink) => (
@@ -85,6 +88,8 @@ export default function Bebidas() {
             nome={drink.nome}
             imagem={drink.img}
             preco={drink.preco}
+            icone={drink.cart}
+
           />
         ))}
       </div>

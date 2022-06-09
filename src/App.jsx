@@ -9,17 +9,16 @@ import "./App.css";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 import Home from "./pages/Home/Home";
-
+import Loader from "./components/loading/Loader";
 import Petiscos from "./pages/Petiscos";
-
 import Ingressos from "./pages/Ingressos";
-
 import Sobre from "./pages/Sobre";
 import Bebidas from "./pages/Bebidas";
 
 function App() {
   return (
     <div className="App">
+
       <BrowserRouter>
         <Header />
         <Routes>

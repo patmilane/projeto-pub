@@ -12,16 +12,17 @@ export default function Ingressos() {
   const tickets = [
     {
       id: 1,
-      nome: "MEIA ENTRADA",
-      preco: "16,00",
-      img: ingresso1
+      nome: "TRADICIONAL",
+      preco: "10",
+      img: ingresso3
     },
     {
       id: 2,
-      nome: "TRADICIONAL",
-      preco: "23,00",
-      img: ingresso3
+      nome: "MEIA ENTRADA",
+      preco: "5",
+      img: ingresso1
     },
+    
   ];
 
   useEffect(() => {

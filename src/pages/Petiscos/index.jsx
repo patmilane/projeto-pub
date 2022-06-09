@@ -10,6 +10,8 @@ import petisco5 from "../../assets/petisco5.png";
 import petisco6 from "../../assets/petisco6.png";
 import petisco7 from "../../assets/petisco7.png";
 import petisco8 from "../../assets/petisco8.png";
+import petisco10 from "../../assets/petisco10.png";
+
 
 
 export default function Petiscos() {
@@ -21,7 +23,7 @@ export default function Petiscos() {
           id: 1,
           nome: "Amendoim Crocante",
           preco: "16,00",
-          img: petisco5
+          img: petisco1
         },
         {
           id: 2,
@@ -43,7 +45,7 @@ export default function Petiscos() {
         },
         {
           id: 5,
-          nome: "Dadinho de MMuçarela",
+          nome: "Dadinho de Muçarela",
           preco: "26,00",
           img: petisco2
         },
@@ -75,7 +77,7 @@ export default function Petiscos() {
           <ListItems
             key={item.id}
             nome={item.produto}
-            imagem={petisco1}
+            imagem={petisco10}
             preco={item.preco}
           />
         ))}
