@@ -16,4 +16,59 @@ O intuito do projeto é a confecção de um site a partir dos conceitos em react
 <br>
 <br>
 
+## Dependências necessárias
+Todas dependências necessárias estão <a href = 'https://github.com/patmilane/projeto-pub/blob/master/package.json'>neste arquivo</a>. Para fazer um clone do projeto basta copiar o código abaixo usando "Ctrl + c" e em seguida colar no terminal com as telas "Ctrl + Shift + v".
 
+```
+git clone https://github.com/patmilane/projeto-pub.git
+```
+
+Em seguida, entre na pasta EscolaAPI utilizando o seguinte comando no terminal:
+
+```
+cd projeto-pub
+```
+
+E, por fim, instale todas as dependências necessárias:
+
+```
+npm install
+```
+
+
+<br>
+<br>
+
+
+## Inicialização da aplicação via terminal
+Para inicializar a aplicação basta abrir o terminal dentro da pasta do projeto e executar o código abaixo:
+
+```
+npm run dev
+```
+
+<br>
+<br>
+
+> ## Page Inicial  
+<img src='src\assets\readme1.png' width=900> 
+
+> ## Sobre o PUB AS PANTERAS
+<img src='src\assets\readme2.png' width=900> 
+
+> ## Page de Petiscos
+<img src='src\assets\readme3.png' width=900>
+
+> ## Page de Bebidas
+<img src='src\assets\readme4.png' width=900>
+
+> ## Page de Ingressos
+<img src='src\assets\readme5.png' width=900>
+
+
+
+> ## Autores
+- [Bruna Leardini](https://github.com/bleardini)
+- [Lucas Mendonça](https://github.com/lucasmendonc)
+- [Paloma Barros](https://github.com/pamBarros)
+- [Patrícia Milane](https://github.com/patmilane)
