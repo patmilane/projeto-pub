@@ -50,19 +50,19 @@ npm run dev
 <br>
 <br>
 
-> ## Página Inicial  
-<img src='src\assets\readme1.png' width=900>
+> ## Page Inicial  
+<img src='src\assets\readme1.png' width=900> 
 
 > ## Sobre o PUB AS PANTERAS
-<img src='src\assets\readme2.png' width=900>
+<img src='src\assets\readme2.png' width=900> 
 
-> ## Página de Petiscos
+> ## Page de Petiscos
 <img src='src\assets\readme3.png' width=900>
 
-> ## Página de Bebidas
+> ## Page de Bebidas
 <img src='src\assets\readme4.png' width=900>
 
-> ## Página de Ingressos
+> ## Page de Ingressos
 <img src='src\assets\readme5.png' width=900>
 
 
