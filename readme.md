@@ -2,7 +2,7 @@
 
 ## Descrição do projeto
 
-O intuito do projeto é a confecção de um site a partir dos conceitos em react.js <a href = 'https://github.com/PamBarros/ProjetoFinal_Pub'> módulo 4 </a>. 
+O intuito do projeto é a confecção de um site a partir dos conceitos em react.js <a href = 'https://github.com/PamBarros/ProjetoFinal_Pub'> módulo 4 </a>. Utilizando a api feita no módulo 4
 <br>
 <br>
 
